@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publicationYear": 1925,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publicationYear": 1960,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 3,
+    "title": "1984",
+    "author": "George Orwell",
+    "publicationYear": 1949,
+    "genre": "Dystopian",
+    "availableCopies": 7
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publicationYear": 1813,
+    "genre": "Romance",
+    "availableCopies": 4
+  },
+  {
+    "id": 5,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "publicationYear": 1937,
+    "genre": "Fantasy",
+    "availableCopies": 6
+  },
+  {
+    "id": 6,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "publicationYear": 1951,
+    "genre": "Fiction",
+    "availableCopies": 2
+  },
+  {
+    "id": 7,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "publicationYear": 1988,
+    "genre": "Adventure",
+    "availableCopies": 8
+  },
+  {
+    "id": 8,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "publicationYear": 1932,
+    "genre": "Dystopian",
+    "availableCopies": 5
+  },
+  {
+    "id": 9,
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "publicationYear": 1954,
+    "genre": "Fantasy",
+    "availableCopies": 3
+  },
+  {
+    "id": 10,
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "publicationYear": 1866,
+    "genre": "Psychological Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 11,
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "publicationYear": 1950,
+    "genre": "Fantasy",
+    "availableCopies": 6
+  },
+  {
+    "id": 12,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "publicationYear": 1851,
+    "genre": "Adventure",
+    "availableCopies": 3
+  },
+  {
+    "id": 13,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "publicationYear": 1869,
+    "genre": "Historical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 14,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "publicationYear": -800,
+    "genre": "Epic Poetry",
+    "availableCopies": 7
+  },
+  {
+    "id": 15,
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "publicationYear": 1847,
+    "genre": "Romance",
+    "availableCopies": 4
+  },
+  {
+    "id": 16,
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "publicationYear": 1847,
+    "genre": "Romance",
+    "availableCopies": 6
+  },
+  {
+    "id": 17,
+    "title": "Great Expectations",
+    "author": "Charles Dickens",
+    "publicationYear": 1861,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 18,
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "publicationYear": 1939,
+    "genre": "Historical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 19,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "publicationYear": 1953,
+    "genre": "Dystopian",
+    "availableCopies": 8
+  },
+  {
+    "id": 20,
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "publicationYear": 1952,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 21,
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "publicationYear": 1967,
+    "genre": "Magical Realism",
+    "availableCopies": 6
+  },
+  {
+    "id": 22,
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "publicationYear": 1605,
+    "genre": "Adventure",
+    "availableCopies": 3
+  },
+  {
+    "id": 23,
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "publicationYear": 1320,
+    "genre": "Epic Poetry",
+    "availableCopies": 5
+  },
+  {
+    "id": 24,
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "publicationYear": 1877,
+    "genre": "Romance",
+    "availableCopies": 4
+  },
+  {
+    "id": 25,
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "publicationYear": 1880,
+    "genre": "Psychological Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 26,
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "publicationYear": 1862,
+    "genre": "Historical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 27,
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "publicationYear": 1844,
+    "genre": "Adventure",
+    "availableCopies": 6
+  },
+  {
+    "id": 28,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "publicationYear": 1818,
+    "genre": "Horror",
+    "availableCopies": 4
+  },
+  {
+    "id": 29,
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "publicationYear": 1897,
+    "genre": "Horror",
+    "availableCopies": 7
+  },
+  {
+    "id": 30,
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "publicationYear": 1890,
+    "genre": "Philosophical Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 31,
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "publicationYear": 1865,
+    "genre": "Fantasy",
+    "availableCopies": 8
+  },
+  {
+    "id": 32,
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "publicationYear": 1943,
+    "genre": "Children's Fiction",
+    "availableCopies": 9
+  },
+  {
+    "id": 33,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "publicationYear": 1997,
+    "genre": "Fantasy",
+    "availableCopies": 10
+  },
+  {
+    "id": 34,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "publicationYear": 1998,
+    "genre": "Fantasy",
+    "availableCopies": 8
+  },
+  {
+    "id": 35,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling",
+    "publicationYear": 1999,
+    "genre": "Fantasy",
+    "availableCopies": 7
+  },
+  {
+    "id": 36,
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "publicationYear": 2008,
+    "genre": "Dystopian",
+    "availableCopies": 6
+  },
+  {
+    "id": 37,
+    "title": "Catching Fire",
+    "author": "Suzanne Collins",
+    "publicationYear": 2009,
+    "genre": "Dystopian",
+    "availableCopies": 5
+  },
+  {
+    "id": 38,
+    "title": "Mockingjay",
+    "author": "Suzanne Collins",
+    "publicationYear": 2010,
+    "genre": "Dystopian",
+    "availableCopies": 4
+  },
+  {
+    "id": 39,
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "publicationYear": 1996,
+    "genre": "Fantasy",
+    "availableCopies": 7
+  },
+  {
+    "id": 40,
+    "title": "A Clash of Kings",
+    "author": "George R.R. Martin",
+    "publicationYear": 1998,
+    "genre": "Fantasy",
+    "availableCopies": 6
+  },
+  {
+    "id": 41,
+    "title": "A Storm of Swords",
+    "author": "George R.R. Martin",
+    "publicationYear": 2000,
+    "genre": "Fantasy",
+    "availableCopies": 5
+  },
+  {
+    "id": 42,
+    "title": "A Feast for Crows",
+    "author": "George R.R. Martin",
+    "publicationYear": 2005,
+    "genre": "Fantasy",
+    "availableCopies": 4
+  },
+  {
+    "id": 43,
+    "title": "A Dance with Dragons",
+    "author": "George R.R. Martin",
+    "publicationYear": 2011,
+    "genre": "Fantasy",
+    "availableCopies": 3
+  },
+  {
+    "id": 44,
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "publicationYear": 2007,
+    "genre": "Fantasy",
+    "availableCopies": 6
+  },
+  {
+    "id": 45,
+    "title": "The Wise Man's Fear",
+    "author": "Patrick Rothfuss",
+    "publicationYear": 2011,
+    "genre": "Fantasy",
+    "availableCopies": 5
+  },
+  {
+    "id": 46,
+    "title": "Mistborn: The Final Empire",
+    "author": "Brandon Sanderson",
+    "publicationYear": 2006,
+    "genre": "Fantasy",
+    "availableCopies": 7
+  },
+  {
+    "id": 47,
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "publicationYear": 2010,
+    "genre": "Fantasy",
+    "availableCopies": 6
+  },
+  {
+    "id": 48,
+    "title": "Words of Radiance",
+    "author": "Brandon Sanderson",
+    "publicationYear": 2014,
+    "genre": "Fantasy",
+    "availableCopies": 5
+  },
+  {
+    "id": 49,
+    "title": "The Eye of the World",
+    "author": "Robert Jordan",
+    "publicationYear": 1990,
+    "genre": "Fantasy",
+    "availableCopies": 4
+  },
+  {
+    "id": 50,
+    "title": "The Great Hunt",
+    "author": "Robert Jordan",
+    "publicationYear": 1990,
+    "genre": "Fantasy",
+    "availableCopies": 3
+  },
+  {
+    "id": 51,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "publicationYear": 1965,
+    "genre": "Science Fiction",
+    "availableCopies": 8
+  },
+  {
+    "id": 52,
+    "title": "Dune Messiah",
+    "author": "Frank Herbert",
+    "publicationYear": 1969,
+    "genre": "Science Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 53,
+    "title": "Children of Dune",
+    "author": "Frank Herbert",
+    "publicationYear": 1976,
+    "genre": "Science Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 54,
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "publicationYear": 1951,
+    "genre": "Science Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 55,
+    "title": "Foundation and Empire",
+    "author": "Isaac Asimov",
+    "publicationYear": 1952,
+    "genre": "Science Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 56,
+    "title": "Second Foundation",
+    "author": "Isaac Asimov",
+    "publicationYear": 1953,
+    "genre": "Science Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 57,
+    "title": "I, Robot",
+    "author": "Isaac Asimov",
+    "publicationYear": 1950,
+    "genre": "Science Fiction",
+    "availableCopies": 8
+  },
+  {
+    "id": 58,
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "publicationYear": 1984,
+    "genre": "Cyberpunk",
+    "availableCopies": 4
+  },
+  {
+    "id": 59,
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "publicationYear": 1992,
+    "genre": "Cyberpunk",
+    "availableCopies": 5
+  },
+  {
+    "id": 60,
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "publicationYear": 2011,
+    "genre": "Science Fiction",
+    "availableCopies": 9
+  },
+  {
+    "id": 61,
+    "title": "Ready Player One",
+    "author": "Ernest Cline",
+    "publicationYear": 2011,
+    "genre": "Science Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 62,
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "publicationYear": 1985,
+    "genre": "Science Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 63,
+    "title": "Speaker for the Dead",
+    "author": "Orson Scott Card",
+    "publicationYear": 1986,
+    "genre": "Science Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 64,
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "publicationYear": 1969,
+    "genre": "Science Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 65,
+    "title": "A Wizard of Earthsea",
+    "author": "Ursula K. Le Guin",
+    "publicationYear": 1968,
+    "genre": "Fantasy",
+    "availableCopies": 6
+  },
+  {
+    "id": 66,
+    "title": "The Tombs of Atuan",
+    "author": "Ursula K. Le Guin",
+    "publicationYear": 1970,
+    "genre": "Fantasy",
+    "availableCopies": 4
+  },
+  {
+    "id": 67,
+    "title": "The Farthest Shore",
+    "author": "Ursula K. Le Guin",
+    "publicationYear": 1972,
+    "genre": "Fantasy",
+    "availableCopies": 3
+  },
+  {
+    "id": 68,
+    "title": "American Gods",
+    "author": "Neil Gaiman",
+    "publicationYear": 2001,
+    "genre": "Fantasy",
+    "availableCopies": 7
+  },
+  {
+    "id": 69,
+    "title": "Neverwhere",
+    "author": "Neil Gaiman",
+    "publicationYear": 1996,
+    "genre": "Fantasy",
+    "availableCopies": 5
+  },
+  {
+    "id": 70,
+    "title": "Good Omens",
+    "author": "Neil Gaiman & Terry Pratchett",
+    "publicationYear": 1990,
+    "genre": "Fantasy",
+    "availableCopies": 6
+  },
+  {
+    "id": 71,
+    "title": "The Colour of Magic",
+    "author": "Terry Pratchett",
+    "publicationYear": 1983,
+    "genre": "Fantasy",
+    "availableCopies": 8
+  },
+  {
+    "id": 72,
+    "title": "Guards! Guards!",
+    "author": "Terry Pratchett",
+    "publicationYear": 1989,
+    "genre": "Fantasy",
+    "availableCopies": 7
+  },
+  {
+    "id": 73,
+    "title": "Mort",
+    "author": "Terry Pratchett",
+    "publicationYear": 1987,
+    "genre": "Fantasy",
+    "availableCopies": 5
+  },
+  {
+    "id": 74,
+    "title": "The Shining",
+    "author": "Stephen King",
+    "publicationYear": 1977,
+    "genre": "Horror",
+    "availableCopies": 6
+  },
+  {
+    "id": 75,
+    "title": "It",
+    "author": "Stephen King",
+    "publicationYear": 1986,
+    "genre": "Horror",
+    "availableCopies": 4
+  },
+  {
+    "id": 76,
+    "title": "The Stand",
+    "author": "Stephen King",
+    "publicationYear": 1978,
+    "genre": "Horror",
+    "availableCopies": 5
+  },
+  {
+    "id": 77,
+    "title": "Misery",
+    "author": "Stephen King",
+    "publicationYear": 1987,
+    "genre": "Horror",
+    "availableCopies": 3
+  },
+  {
+    "id": 78,
+    "title": "The Silence of the Lambs",
+    "author": "Thomas Harris",
+    "publicationYear": 1988,
+    "genre": "Thriller",
+    "availableCopies": 7
+  },
+  {
+    "id": 79,
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "publicationYear": 2012,
+    "genre": "Thriller",
+    "availableCopies": 8
+  },
+  {
+    "id": 80,
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "publicationYear": 2005,
+    "genre": "Thriller",
+    "availableCopies": 6
+  },
+  {
+    "id": 81,
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "publicationYear": 2003,
+    "genre": "Thriller",
+    "availableCopies": 9
+  },
+  {
+    "id": 82,
+    "title": "Angels & Demons",
+    "author": "Dan Brown",
+    "publicationYear": 2000,
+    "genre": "Thriller",
+    "availableCopies": 7
+  },
+  {
+    "id": 83,
+    "title": "The Firm",
+    "author": "John Grisham",
+    "publicationYear": 1991,
+    "genre": "Legal Thriller",
+    "availableCopies": 5
+  },
+  {
+    "id": 84,
+    "title": "The Client",
+    "author": "John Grisham",
+    "publicationYear": 1993,
+    "genre": "Legal Thriller",
+    "availableCopies": 4
+  },
+  {
+    "id": 85,
+    "title": "Jurassic Park",
+    "author": "Michael Crichton",
+    "publicationYear": 1990,
+    "genre": "Science Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 86,
+    "title": "The Lost World",
+    "author": "Michael Crichton",
+    "publicationYear": 1995,
+    "genre": "Science Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 87,
+    "title": "The Andromeda Strain",
+    "author": "Michael Crichton",
+    "publicationYear": 1969,
+    "genre": "Science Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 88,
+    "title": "Contact",
+    "author": "Carl Sagan",
+    "publicationYear": 1985,
+    "genre": "Science Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 89,
+    "title": "The Time Machine",
+    "author": "H.G. Wells",
+    "publicationYear": 1895,
+    "genre": "Science Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 90,
+    "title": "The War of the Worlds",
+    "author": "H.G. Wells",
+    "publicationYear": 1898,
+    "genre": "Science Fiction",
+    "availableCopies": 8
+  },
+  {
+    "id": 91,
+    "title": "The Invisible Man",
+    "author": "H.G. Wells",
+    "publicationYear": 1897,
+    "genre": "Science Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 92,
+    "title": "Twenty Thousand Leagues Under the Sea",
+    "author": "Jules Verne",
+    "publicationYear": 1870,
+    "genre": "Adventure",
+    "availableCopies": 6
+  },
+  {
+    "id": 93,
+    "title": "Around the World in Eighty Days",
+    "author": "Jules Verne",
+    "publicationYear": 1872,
+    "genre": "Adventure",
+    "availableCopies": 7
+  },
+  {
+    "id": 94,
+    "title": "Journey to the Center of the Earth",
+    "author": "Jules Verne",
+    "publicationYear": 1864,
+    "genre": "Adventure",
+    "availableCopies": 4
+  },
+  {
+    "id": 95,
+    "title": "The Three Musketeers",
+    "author": "Alexandre Dumas",
+    "publicationYear": 1844,
+    "genre": "Adventure",
+    "availableCopies": 5
+  },
+  {
+    "id": 96,
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "publicationYear": 1883,
+    "genre": "Adventure",
+    "availableCopies": 8
+  },
+  {
+    "id": 97,
+    "title": "Kidnapped",
+    "author": "Robert Louis Stevenson",
+    "publicationYear": 1886,
+    "genre": "Adventure",
+    "availableCopies": 4
+  },
+  {
+    "id": 98,
+    "title": "Robinson Crusoe",
+    "author": "Daniel Defoe",
+    "publicationYear": 1719,
+    "genre": "Adventure",
+    "availableCopies": 6
+  },
+  {
+    "id": 99,
+    "title": "Gulliver's Travels",
+    "author": "Jonathan Swift",
+    "publicationYear": 1726,
+    "genre": "Satire",
+    "availableCopies": 5
+  },
+  {
+    "id": 100,
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "publicationYear": 1884,
+    "genre": "Adventure",
+    "availableCopies": 7
+  },
+  {
+    "id": 101,
+    "title": "The Adventures of Tom Sawyer",
+    "author": "Mark Twain",
+    "publicationYear": 1876,
+    "genre": "Adventure",
+    "availableCopies": 6
+  },
+  {
+    "id": 102,
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "author": "Mark Twain",
+    "publicationYear": 1889,
+    "genre": "Satire",
+    "availableCopies": 4
+  },
+  {
+    "id": 103,
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "publicationYear": 1850,
+    "genre": "Historical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 104,
+    "title": "The House of the Seven Gables",
+    "author": "Nathaniel Hawthorne",
+    "publicationYear": 1851,
+    "genre": "Gothic Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 105,
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "publicationYear": 1868,
+    "genre": "Coming of Age",
+    "availableCopies": 7
+  },
+  {
+    "id": 106,
+    "title": "Little Men",
+    "author": "Louisa May Alcott",
+    "publicationYear": 1871,
+    "genre": "Coming of Age",
+    "availableCopies": 4
+  },
+  {
+    "id": 107,
+    "title": "Jo's Boys",
+    "author": "Louisa May Alcott",
+    "publicationYear": 1886,
+    "genre": "Coming of Age",
+    "availableCopies": 3
+  },
+  {
+    "id": 108,
+    "title": "The Call of the Wild",
+    "author": "Jack London",
+    "publicationYear": 1903,
+    "genre": "Adventure",
+    "availableCopies": 8
+  },
+  {
+    "id": 109,
+    "title": "White Fang",
+    "author": "Jack London",
+    "publicationYear": 1906,
+    "genre": "Adventure",
+    "availableCopies": 6
+  },
+  {
+    "id": 110,
+    "title": "The Sea-Wolf",
+    "author": "Jack London",
+    "publicationYear": 1904,
+    "genre": "Adventure",
+    "availableCopies": 5
+  },
+  {
+    "id": 111,
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "publicationYear": 1937,
+    "genre": "Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 112,
+    "title": "East of Eden",
+    "author": "John Steinbeck",
+    "publicationYear": 1952,
+    "genre": "Historical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 113,
+    "title": "Cannery Row",
+    "author": "John Steinbeck",
+    "publicationYear": 1945,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 114,
+    "title": "The Pearl",
+    "author": "John Steinbeck",
+    "publicationYear": 1947,
+    "genre": "Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 115,
+    "title": "For Whom the Bell Tolls",
+    "author": "Ernest Hemingway",
+    "publicationYear": 1940,
+    "genre": "War Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 116,
+    "title": "A Farewell to Arms",
+    "author": "Ernest Hemingway",
+    "publicationYear": 1929,
+    "genre": "War Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 117,
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "publicationYear": 1926,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 118,
+    "title": "Tender Is the Night",
+    "author": "F. Scott Fitzgerald",
+    "publicationYear": 1934,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 119,
+    "title": "This Side of Paradise",
+    "author": "F. Scott Fitzgerald",
+    "publicationYear": 1920,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 120,
+    "title": "The Beautiful and Damned",
+    "author": "F. Scott Fitzgerald",
+    "publicationYear": 1922,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 121,
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "publicationYear": 1987,
+    "genre": "Historical Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 122,
+    "title": "Song of Solomon",
+    "author": "Toni Morrison",
+    "publicationYear": 1977,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 123,
+    "title": "The Bluest Eye",
+    "author": "Toni Morrison",
+    "publicationYear": 1970,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 124,
+    "title": "Invisible Man",
+    "author": "Ralph Ellison",
+    "publicationYear": 1952,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 125,
+    "title": "Native Son",
+    "author": "Richard Wright",
+    "publicationYear": 1940,
+    "genre": "Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 126,
+    "title": "Their Eyes Were Watching God",
+    "author": "Zora Neale Hurston",
+    "publicationYear": 1937,
+    "genre": "Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 127,
+    "title": "Things Fall Apart",
+    "author": "Chinua Achebe",
+    "publicationYear": 1958,
+    "genre": "Historical Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 128,
+    "title": "No Longer at Ease",
+    "author": "Chinua Achebe",
+    "publicationYear": 1960,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 129,
+    "title": "Arrow of God",
+    "author": "Chinua Achebe",
+    "publicationYear": 1964,
+    "genre": "Historical Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 130,
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "publicationYear": 2003,
+    "genre": "Historical Fiction",
+    "availableCopies": 8
+  },
+  {
+    "id": 131,
+    "title": "A Thousand Splendid Suns",
+    "author": "Khaled Hosseini",
+    "publicationYear": 2007,
+    "genre": "Historical Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 132,
+    "title": "And the Mountains Echoed",
+    "author": "Khaled Hosseini",
+    "publicationYear": 2013,
+    "genre": "Historical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 133,
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "publicationYear": 2001,
+    "genre": "Adventure",
+    "availableCopies": 7
+  },
+  {
+    "id": 134,
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "publicationYear": 2005,
+    "genre": "Historical Fiction",
+    "availableCopies": 8
+  },
+  {
+    "id": 135,
+    "title": "The Boy in the Striped Pajamas",
+    "author": "John Boyne",
+    "publicationYear": 2006,
+    "genre": "Historical Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 136,
+    "title": "All the Light We Cannot See",
+    "author": "Anthony Doerr",
+    "publicationYear": 2014,
+    "genre": "Historical Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 137,
+    "title": "The Nightingale",
+    "author": "Kristin Hannah",
+    "publicationYear": 2015,
+    "genre": "Historical Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 138,
+    "title": "The Tattooist of Auschwitz",
+    "author": "Heather Morris",
+    "publicationYear": 2018,
+    "genre": "Historical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 139,
+    "title": "Schindler's List",
+    "author": "Thomas Keneally",
+    "publicationYear": 1982,
+    "genre": "Historical Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 140,
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "publicationYear": 1947,
+    "genre": "Memoir",
+    "availableCopies": 9
+  },
+  {
+    "id": 141,
+    "title": "Night",
+    "author": "Elie Wiesel",
+    "publicationYear": 1956,
+    "genre": "Memoir",
+    "availableCopies": 7
+  },
+  {
+    "id": 142,
+    "title": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "publicationYear": 1946,
+    "genre": "Memoir",
+    "availableCopies": 8
+  },
+  {
+    "id": 143,
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "publicationYear": 1942,
+    "genre": "Philosophical Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 144,
+    "title": "The Plague",
+    "author": "Albert Camus",
+    "publicationYear": 1947,
+    "genre": "Philosophical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 145,
+    "title": "The Myth of Sisyphus",
+    "author": "Albert Camus",
+    "publicationYear": 1942,
+    "genre": "Philosophy",
+    "availableCopies": 4
+  },
+  {
+    "id": 146,
+    "title": "The Rebel",
+    "author": "Albert Camus",
+    "publicationYear": 1951,
+    "genre": "Philosophy",
+    "availableCopies": 3
+  },
+  {
+    "id": 147,
+    "title": "Nausea",
+    "author": "Jean-Paul Sartre",
+    "publicationYear": 1938,
+    "genre": "Philosophical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 148,
+    "title": "Being and Nothingness",
+    "author": "Jean-Paul Sartre",
+    "publicationYear": 1943,
+    "genre": "Philosophy",
+    "availableCopies": 3
+  },
+  {
+    "id": 149,
+    "title": "No Exit",
+    "author": "Jean-Paul Sartre",
+    "publicationYear": 1944,
+    "genre": "Play",
+    "availableCopies": 4
+  },
+  {
+    "id": 150,
+    "title": "Thus Spoke Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "publicationYear": 1883,
+    "genre": "Philosophy",
+    "availableCopies": 6
+  },
+  {
+    "id": 151,
+    "title": "Beyond Good and Evil",
+    "author": "Friedrich Nietzsche",
+    "publicationYear": 1886,
+    "genre": "Philosophy",
+    "availableCopies": 5
+  },
+  {
+    "id": 152,
+    "title": "The Birth of Tragedy",
+    "author": "Friedrich Nietzsche",
+    "publicationYear": 1872,
+    "genre": "Philosophy",
+    "availableCopies": 3
+  },
+  {
+    "id": 153,
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "publicationYear": 180,
+    "genre": "Philosophy",
+    "availableCopies": 8
+  },
+  {
+    "id": 154,
+    "title": "The Republic",
+    "author": "Plato",
+    "publicationYear": -380,
+    "genre": "Philosophy",
+    "availableCopies": 7
+  },
+  {
+    "id": 155,
+    "title": "The Symposium",
+    "author": "Plato",
+    "publicationYear": -385,
+    "genre": "Philosophy",
+    "availableCopies": 5
+  },
+  {
+    "id": 156,
+    "title": "Nicomachean Ethics",
+    "author": "Aristotle",
+    "publicationYear": -340,
+    "genre": "Philosophy",
+    "availableCopies": 4
+  },
+  {
+    "id": 157,
+    "title": "The Iliad",
+    "author": "Homer",
+    "publicationYear": -750,
+    "genre": "Epic Poetry",
+    "availableCopies": 6
+  },
+  {
+    "id": 158,
+    "title": "The Aeneid",
+    "author": "Virgil",
+    "publicationYear": -19,
+    "genre": "Epic Poetry",
+    "availableCopies": 5
+  },
+  {
+    "id": 159,
+    "title": "The Metamorphoses",
+    "author": "Ovid",
+    "publicationYear": 8,
+    "genre": "Epic Poetry",
+    "availableCopies": 4
+  },
+  {
+    "id": 160,
+    "title": "The Canterbury Tales",
+    "author": "Geoffrey Chaucer",
+    "publicationYear": 1400,
+    "genre": "Poetry",
+    "availableCopies": 5
+  },
+  {
+    "id": 161,
+    "title": "Paradise Lost",
+    "author": "John Milton",
+    "publicationYear": 1667,
+    "genre": "Epic Poetry",
+    "availableCopies": 6
+  },
+  {
+    "id": 162,
+    "title": "The Faerie Queene",
+    "author": "Edmund Spenser",
+    "publicationYear": 1590,
+    "genre": "Epic Poetry",
+    "availableCopies": 3
+  },
+  {
+    "id": 163,
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "publicationYear": 1603,
+    "genre": "Play",
+    "availableCopies": 9
+  },
+  {
+    "id": 164,
+    "title": "Macbeth",
+    "author": "William Shakespeare",
+    "publicationYear": 1606,
+    "genre": "Play",
+    "availableCopies": 8
+  },
+  {
+    "id": 165,
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "publicationYear": 1597,
+    "genre": "Play",
+    "availableCopies": 9
+  },
+  {
+    "id": 166,
+    "title": "King Lear",
+    "author": "William Shakespeare",
+    "publicationYear": 1606,
+    "genre": "Play",
+    "availableCopies": 6
+  },
+  {
+    "id": 167,
+    "title": "Othello",
+    "author": "William Shakespeare",
+    "publicationYear": 1604,
+    "genre": "Play",
+    "availableCopies": 7
+  },
+  {
+    "id": 168,
+    "title": "A Midsummer Night's Dream",
+    "author": "William Shakespeare",
+    "publicationYear": 1595,
+    "genre": "Play",
+    "availableCopies": 8
+  },
+  {
+    "id": 169,
+    "title": "The Tempest",
+    "author": "William Shakespeare",
+    "publicationYear": 1611,
+    "genre": "Play",
+    "availableCopies": 5
+  },
+  {
+    "id": 170,
+    "title": "Twelfth Night",
+    "author": "William Shakespeare",
+    "publicationYear": 1602,
+    "genre": "Play",
+    "availableCopies": 6
+  },
+  {
+    "id": 171,
+    "title": "Much Ado About Nothing",
+    "author": "William Shakespeare",
+    "publicationYear": 1599,
+    "genre": "Play",
+    "availableCopies": 5
+  },
+  {
+    "id": 172,
+    "title": "The Merchant of Venice",
+    "author": "William Shakespeare",
+    "publicationYear": 1600,
+    "genre": "Play",
+    "availableCopies": 4
+  },
+  {
+    "id": 173,
+    "title": "A Doll's House",
+    "author": "Henrik Ibsen",
+    "publicationYear": 1879,
+    "genre": "Play",
+    "availableCopies": 5
+  },
+  {
+    "id": 174,
+    "title": "Hedda Gabler",
+    "author": "Henrik Ibsen",
+    "publicationYear": 1891,
+    "genre": "Play",
+    "availableCopies": 4
+  },
+  {
+    "id": 175,
+    "title": "The Cherry Orchard",
+    "author": "Anton Chekhov",
+    "publicationYear": 1904,
+    "genre": "Play",
+    "availableCopies": 5
+  },
+  {
+    "id": 176,
+    "title": "Uncle Vanya",
+    "author": "Anton Chekhov",
+    "publicationYear": 1899,
+    "genre": "Play",
+    "availableCopies": 3
+  },
+  {
+    "id": 177,
+    "title": "The Seagull",
+    "author": "Anton Chekhov",
+    "publicationYear": 1896,
+    "genre": "Play",
+    "availableCopies": 4
+  },
+  {
+    "id": 178,
+    "title": "Death of a Salesman",
+    "author": "Arthur Miller",
+    "publicationYear": 1949,
+    "genre": "Play",
+    "availableCopies": 7
+  },
+  {
+    "id": 179,
+    "title": "The Crucible",
+    "author": "Arthur Miller",
+    "publicationYear": 1953,
+    "genre": "Play",
+    "availableCopies": 8
+  },
+  {
+    "id": 180,
+    "title": "A View from the Bridge",
+    "author": "Arthur Miller",
+    "publicationYear": 1955,
+    "genre": "Play",
+    "availableCopies": 4
+  },
+  {
+    "id": 181,
+    "title": "Cat on a Hot Tin Roof",
+    "author": "Tennessee Williams",
+    "publicationYear": 1955,
+    "genre": "Play",
+    "availableCopies": 5
+  },
+  {
+    "id": 182,
+    "title": "A Streetcar Named Desire",
+    "author": "Tennessee Williams",
+    "publicationYear": 1947,
+    "genre": "Play",
+    "availableCopies": 6
+  },
+  {
+    "id": 183,
+    "title": "The Glass Menagerie",
+    "author": "Tennessee Williams",
+    "publicationYear": 1944,
+    "genre": "Play",
+    "availableCopies": 5
+  },
+  {
+    "id": 184,
+    "title": "Waiting for Godot",
+    "author": "Samuel Beckett",
+    "publicationYear": 1953,
+    "genre": "Play",
+    "availableCopies": 6
+  },
+  {
+    "id": 185,
+    "title": "Endgame",
+    "author": "Samuel Beckett",
+    "publicationYear": 1957,
+    "genre": "Play",
+    "availableCopies": 4
+  },
+  {
+    "id": 186,
+    "title": "Pygmalion",
+    "author": "George Bernard Shaw",
+    "publicationYear": 1913,
+    "genre": "Play",
+    "availableCopies": 6
+  },
+  {
+    "id": 187,
+    "title": "Major Barbara",
+    "author": "George Bernard Shaw",
+    "publicationYear": 1905,
+    "genre": "Play",
+    "availableCopies": 4
+  },
+  {
+    "id": 188,
+    "title": "Saint Joan",
+    "author": "George Bernard Shaw",
+    "publicationYear": 1923,
+    "genre": "Play",
+    "availableCopies": 5
+  },
+  {
+    "id": 189,
+    "title": "The Importance of Being Earnest",
+    "author": "Oscar Wilde",
+    "publicationYear": 1895,
+    "genre": "Play",
+    "availableCopies": 7
+  },
+  {
+    "id": 190,
+    "title": "Lady Windermere's Fan",
+    "author": "Oscar Wilde",
+    "publicationYear": 1892,
+    "genre": "Play",
+    "availableCopies": 5
+  },
+  {
+    "id": 191,
+    "title": "An Ideal Husband",
+    "author": "Oscar Wilde",
+    "publicationYear": 1895,
+    "genre": "Play",
+    "availableCopies": 4
+  },
+  {
+    "id": 192,
+    "title": "Salomé",
+    "author": "Oscar Wilde",
+    "publicationYear": 1891,
+    "genre": "Play",
+    "availableCopies": 3
+  },
+  {
+    "id": 193,
+    "title": "Faust",
+    "author": "Johann Wolfgang von Goethe",
+    "publicationYear": 1808,
+    "genre": "Play",
+    "availableCopies": 6
+  },
+  {
+    "id": 194,
+    "title": "The Sorrows of Young Werther",
+    "author": "Johann Wolfgang von Goethe",
+    "publicationYear": 1774,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 195,
+    "title": "Wilhelm Meister's Apprenticeship",
+    "author": "Johann Wolfgang von Goethe",
+    "publicationYear": 1795,
+    "genre": "Coming of Age",
+    "availableCopies": 3
+  },
+  {
+    "id": 196,
+    "title": "Madame Bovary",
+    "author": "Gustave Flaubert",
+    "publicationYear": 1856,
+    "genre": "Realism",
+    "availableCopies": 6
+  },
+  {
+    "id": 197,
+    "title": "Sentimental Education",
+    "author": "Gustave Flaubert",
+    "publicationYear": 1869,
+    "genre": "Realism",
+    "availableCopies": 4
+  },
+  {
+    "id": 198,
+    "title": "Salammbô",
+    "author": "Gustave Flaubert",
+    "publicationYear": 1862,
+    "genre": "Historical Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 199,
+    "title": "The Red and the Black",
+    "author": "Stendhal",
+    "publicationYear": 1830,
+    "genre": "Realism",
+    "availableCopies": 5
+  },
+  {
+    "id": 200,
+    "title": "The Charterhouse of Parma",
+    "author": "Stendhal",
+    "publicationYear": 1839,
+    "genre": "Historical Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 201,
+    "title": "Father Goriot",
+    "author": "Honoré de Balzac",
+    "publicationYear": 1835,
+    "genre": "Realism",
+    "availableCopies": 5
+  },
+  {
+    "id": 202,
+    "title": "Eugénie Grandet",
+    "author": "Honoré de Balzac",
+    "publicationYear": 1833,
+    "genre": "Realism",
+    "availableCopies": 4
+  },
+  {
+    "id": 203,
+    "title": "Lost Illusions",
+    "author": "Honoré de Balzac",
+    "publicationYear": 1837,
+    "genre": "Realism",
+    "availableCopies": 3
+  },
+  {
+    "id": 204,
+    "title": "The Hunchback of Notre-Dame",
+    "author": "Victor Hugo",
+    "publicationYear": 1831,
+    "genre": "Gothic Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 205,
+    "title": "The Man Who Laughs",
+    "author": "Victor Hugo",
+    "publicationYear": 1869,
+    "genre": "Historical Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 206,
+    "title": "Ninety-Three",
+    "author": "Victor Hugo",
+    "publicationYear": 1874,
+    "genre": "Historical Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 207,
+    "title": "Germinal",
+    "author": "Émile Zola",
+    "publicationYear": 1885,
+    "genre": "Naturalism",
+    "availableCopies": 5
+  },
+  {
+    "id": 208,
+    "title": "Nana",
+    "author": "Émile Zola",
+    "publicationYear": 1880,
+    "genre": "Naturalism",
+    "availableCopies": 4
+  },
+  {
+    "id": 209,
+    "title": "Thérèse Raquin",
+    "author": "Émile Zola",
+    "publicationYear": 1867,
+    "genre": "Naturalism",
+    "availableCopies": 6
+  },
+  {
+    "id": 210,
+    "title": "The Beast Within",
+    "author": "Émile Zola",
+    "publicationYear": 1890,
+    "genre": "Naturalism",
+    "availableCopies": 3
+  },
+  {
+    "id": 211,
+    "title": "Bel-Ami",
+    "author": "Guy de Maupassant",
+    "publicationYear": 1885,
+    "genre": "Realism",
+    "availableCopies": 5
+  },
+  {
+    "id": 212,
+    "title": "A Life",
+    "author": "Guy de Maupassant",
+    "publicationYear": 1883,
+    "genre": "Realism",
+    "availableCopies": 4
+  },
+  {
+    "id": 213,
+    "title": "Pierre and Jean",
+    "author": "Guy de Maupassant",
+    "publicationYear": 1888,
+    "genre": "Realism",
+    "availableCopies": 3
+  },
+  {
+    "id": 214,
+    "title": "The Red Badge of Courage",
+    "author": "Stephen Crane",
+    "publicationYear": 1895,
+    "genre": "War Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 215,
+    "title": "Maggie: A Girl of the Streets",
+    "author": "Stephen Crane",
+    "publicationYear": 1893,
+    "genre": "Naturalism",
+    "availableCopies": 4
+  },
+  {
+    "id": 216,
+    "title": "Sister Carrie",
+    "author": "Theodore Dreiser",
+    "publicationYear": 1900,
+    "genre": "Naturalism",
+    "availableCopies": 5
+  },
+  {
+    "id": 217,
+    "title": "An American Tragedy",
+    "author": "Theodore Dreiser",
+    "publicationYear": 1925,
+    "genre": "Naturalism",
+    "availableCopies": 4
+  },
+  {
+    "id": 218,
+    "title": "The Financier",
+    "author": "Theodore Dreiser",
+    "publicationYear": 1912,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 219,
+    "title": "Babbitt",
+    "author": "Sinclair Lewis",
+    "publicationYear": 1922,
+    "genre": "Satire",
+    "availableCopies": 5
+  },
+  {
+    "id": 220,
+    "title": "Main Street",
+    "author": "Sinclair Lewis",
+    "publicationYear": 1920,
+    "genre": "Satire",
+    "availableCopies": 4
+  },
+  {
+    "id": 221,
+    "title": "Arrowsmith",
+    "author": "Sinclair Lewis",
+    "publicationYear": 1925,
+    "genre": "Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 222,
+    "title": "Elmer Gantry",
+    "author": "Sinclair Lewis",
+    "publicationYear": 1927,
+    "genre": "Satire",
+    "availableCopies": 3
+  },
+  {
+    "id": 223,
+    "title": "The Jungle",
+    "author": "Upton Sinclair",
+    "publicationYear": 1906,
+    "genre": "Social Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 224,
+    "title": "Oil!",
+    "author": "Upton Sinclair",
+    "publicationYear": 1927,
+    "genre": "Social Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 225,
+    "title": "King Coal",
+    "author": "Upton Sinclair",
+    "publicationYear": 1917,
+    "genre": "Social Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 226,
+    "title": "The Octopus",
+    "author": "Frank Norris",
+    "publicationYear": 1901,
+    "genre": "Naturalism",
+    "availableCopies": 3
+  },
+  {
+    "id": 227,
+    "title": "McTeague",
+    "author": "Frank Norris",
+    "publicationYear": 1899,
+    "genre": "Naturalism",
+    "availableCopies": 5
+  },
+  {
+    "id": 228,
+    "title": "The Pit",
+    "author": "Frank Norris",
+    "publicationYear": 1903,
+    "genre": "Naturalism",
+    "availableCopies": 4
+  },
+  {
+    "id": 229,
+    "title": "My Ántonia",
+    "author": "Willa Cather",
+    "publicationYear": 1918,
+    "genre": "Historical Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 230,
+    "title": "O Pioneers!",
+    "author": "Willa Cather",
+    "publicationYear": 1913,
+    "genre": "Historical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 231,
+    "title": "The Song of the Lark",
+    "author": "Willa Cather",
+    "publicationYear": 1915,
+    "genre": "Coming of Age",
+    "availableCopies": 4
+  },
+  {
+    "id": 232,
+    "title": "Death Comes for the Archbishop",
+    "author": "Willa Cather",
+    "publicationYear": 1927,
+    "genre": "Historical Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 233,
+    "title": "A Passage to India",
+    "author": "E.M. Forster",
+    "publicationYear": 1924,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 234,
+    "title": "Howards End",
+    "author": "E.M. Forster",
+    "publicationYear": 1910,
+    "genre": "Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 235,
+    "title": "A Room with a View",
+    "author": "E.M. Forster",
+    "publicationYear": 1908,
+    "genre": "Romance",
+    "availableCopies": 7
+  },
+  {
+    "id": 236,
+    "title": "Maurice",
+    "author": "E.M. Forster",
+    "publicationYear": 1971,
+    "genre": "Romance",
+    "availableCopies": 4
+  },
+  {
+    "id": 237,
+    "title": "The Remains of the Day",
+    "author": "Kazuo Ishiguro",
+    "publicationYear": 1989,
+    "genre": "Historical Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 238,
+    "title": "Never Let Me Go",
+    "author": "Kazuo Ishiguro",
+    "publicationYear": 2005,
+    "genre": "Science Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 239,
+    "title": "Klara and the Sun",
+    "author": "Kazuo Ishiguro",
+    "publicationYear": 2021,
+    "genre": "Science Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 240,
+    "title": "An Artist of the Floating World",
+    "author": "Kazuo Ishiguro",
+    "publicationYear": 1986,
+    "genre": "Historical Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 241,
+    "title": "The Buried Giant",
+    "author": "Kazuo Ishiguro",
+    "publicationYear": 2015,
+    "genre": "Fantasy",
+    "availableCopies": 3
+  },
+  {
+    "id": 242,
+    "title": "Atonement",
+    "author": "Ian McEwan",
+    "publicationYear": 2001,
+    "genre": "Historical Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 243,
+    "title": "Amsterdam",
+    "author": "Ian McEwan",
+    "publicationYear": 1998,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 244,
+    "title": "Saturday",
+    "author": "Ian McEwan",
+    "publicationYear": 2005,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 245,
+    "title": "On Chesil Beach",
+    "author": "Ian McEwan",
+    "publicationYear": 2007,
+    "genre": "Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 246,
+    "title": "Midnight's Children",
+    "author": "Salman Rushdie",
+    "publicationYear": 1981,
+    "genre": "Magical Realism",
+    "availableCopies": 5
+  },
+  {
+    "id": 247,
+    "title": "The Satanic Verses",
+    "author": "Salman Rushdie",
+    "publicationYear": 1988,
+    "genre": "Magical Realism",
+    "availableCopies": 3
+  },
+  {
+    "id": 248,
+    "title": "The Moor's Last Sigh",
+    "author": "Salman Rushdie",
+    "publicationYear": 1995,
+    "genre": "Magical Realism",
+    "availableCopies": 4
+  },
+  {
+    "id": 249,
+    "title": "Shame",
+    "author": "Salman Rushdie",
+    "publicationYear": 1983,
+    "genre": "Magical Realism",
+    "availableCopies": 3
+  },
+  {
+    "id": 250,
+    "title": "The God of Small Things",
+    "author": "Arundhati Roy",
+    "publicationYear": 1997,
+    "genre": "Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 251,
+    "title": "The Ministry of Utmost Happiness",
+    "author": "Arundhati Roy",
+    "publicationYear": 2017,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 252,
+    "title": "The White Tiger",
+    "author": "Aravind Adiga",
+    "publicationYear": 2008,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 253,
+    "title": "Last Man in Tower",
+    "author": "Aravind Adiga",
+    "publicationYear": 2011,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 254,
+    "title": "Selection Day",
+    "author": "Aravind Adiga",
+    "publicationYear": 2016,
+    "genre": "Coming of Age",
+    "availableCopies": 4
+  },
+  {
+    "id": 255,
+    "title": "The Inheritance of Loss",
+    "author": "Kiran Desai",
+    "publicationYear": 2006,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 256,
+    "title": "Hullabaloo in the Guava Orchard",
+    "author": "Kiran Desai",
+    "publicationYear": 1998,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 257,
+    "title": "The Lowland",
+    "author": "Jhumpa Lahiri",
+    "publicationYear": 2013,
+    "genre": "Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 258,
+    "title": "Interpreter of Maladies",
+    "author": "Jhumpa Lahiri",
+    "publicationYear": 1999,
+    "genre": "Short Stories",
+    "availableCopies": 7
+  },
+  {
+    "id": 259,
+    "title": "The Namesake",
+    "author": "Jhumpa Lahiri",
+    "publicationYear": 2003,
+    "genre": "Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 260,
+    "title": "Unaccustomed Earth",
+    "author": "Jhumpa Lahiri",
+    "publicationYear": 2008,
+    "genre": "Short Stories",
+    "availableCopies": 4
+  },
+  {
+    "id": 261,
+    "title": "White Teeth",
+    "author": "Zadie Smith",
+    "publicationYear": 2000,
+    "genre": "Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 262,
+    "title": "On Beauty",
+    "author": "Zadie Smith",
+    "publicationYear": 2005,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 263,
+    "title": "NW",
+    "author": "Zadie Smith",
+    "publicationYear": 2012,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 264,
+    "title": "Swing Time",
+    "author": "Zadie Smith",
+    "publicationYear": 2016,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 265,
+    "title": "The Buddha of Suburbia",
+    "author": "Hanif Kureishi",
+    "publicationYear": 1990,
+    "genre": "Coming of Age",
+    "availableCopies": 5
+  },
+  {
+    "id": 266,
+    "title": "The Black Album",
+    "author": "Hanif Kureishi",
+    "publicationYear": 1995,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 267,
+    "title": "Intimacy",
+    "author": "Hanif Kureishi",
+    "publicationYear": 1998,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 268,
+    "title": "Brick Lane",
+    "author": "Monica Ali",
+    "publicationYear": 2003,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 269,
+    "title": "In the Kitchen",
+    "author": "Monica Ali",
+    "publicationYear": 2009,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 270,
+    "title": "Untold Story",
+    "author": "Monica Ali",
+    "publicationYear": 2011,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 271,
+    "title": "Small Island",
+    "author": "Andrea Levy",
+    "publicationYear": 2004,
+    "genre": "Historical Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 272,
+    "title": "Never Far from Nowhere",
+    "author": "Andrea Levy",
+    "publicationYear": 1996,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 273,
+    "title": "Fruit of the Lemon",
+    "author": "Andrea Levy",
+    "publicationYear": 1999,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 274,
+    "title": "The Long Song",
+    "author": "Andrea Levy",
+    "publicationYear": 2010,
+    "genre": "Historical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 275,
+    "title": "Wolf Hall",
+    "author": "Hilary Mantel",
+    "publicationYear": 2009,
+    "genre": "Historical Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 276,
+    "title": "Bring Up the Bodies",
+    "author": "Hilary Mantel",
+    "publicationYear": 2012,
+    "genre": "Historical Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 277,
+    "title": "The Mirror and the Light",
+    "author": "Hilary Mantel",
+    "publicationYear": 2020,
+    "genre": "Historical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 278,
+    "title": "A Place of Greater Safety",
+    "author": "Hilary Mantel",
+    "publicationYear": 1992,
+    "genre": "Historical Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 279,
+    "title": "Beyond Black",
+    "author": "Hilary Mantel",
+    "publicationYear": 2005,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 280,
+    "title": "The Luminaries",
+    "author": "Eleanor Catton",
+    "publicationYear": 2013,
+    "genre": "Historical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 281,
+    "title": "The Rehearsal",
+    "author": "Eleanor Catton",
+    "publicationYear": 2008,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 282,
+    "title": "Birnam Wood",
+    "author": "Eleanor Catton",
+    "publicationYear": 2023,
+    "genre": "Thriller",
+    "availableCopies": 4
+  },
+  {
+    "id": 283,
+    "title": "The Bone People",
+    "author": "Keri Hulme",
+    "publicationYear": 1984,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 284,
+    "title": "The Whale Rider",
+    "author": "Witi Ihimaera",
+    "publicationYear": 1987,
+    "genre": "Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 285,
+    "title": "Once Were Warriors",
+    "author": "Alan Duff",
+    "publicationYear": 1990,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 286,
+    "title": "The Secret River",
+    "author": "Kate Grenville",
+    "publicationYear": 2005,
+    "genre": "Historical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 287,
+    "title": "The Lieutenant",
+    "author": "Kate Grenville",
+    "publicationYear": 2008,
+    "genre": "Historical Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 288,
+    "title": "Sarah Thornhill",
+    "author": "Kate Grenville",
+    "publicationYear": 2011,
+    "genre": "Historical Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 289,
+    "title": "True History of the Kelly Gang",
+    "author": "Peter Carey",
+    "publicationYear": 2000,
+    "genre": "Historical Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 290,
+    "title": "Oscar and Lucinda",
+    "author": "Peter Carey",
+    "publicationYear": 1988,
+    "genre": "Historical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 291,
+    "title": "Illywhacker",
+    "author": "Peter Carey",
+    "publicationYear": 1985,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 292,
+    "title": "Theft: A Love Story",
+    "author": "Peter Carey",
+    "publicationYear": 2006,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 293,
+    "title": "Cloudstreet",
+    "author": "Tim Winton",
+    "publicationYear": 1991,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 294,
+    "title": "Dirt Music",
+    "author": "Tim Winton",
+    "publicationYear": 2001,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 295,
+    "title": "Breath",
+    "author": "Tim Winton",
+    "publicationYear": 2008,
+    "genre": "Coming of Age",
+    "availableCopies": 5
+  },
+  {
+    "id": 296,
+    "title": "The Riders",
+    "author": "Tim Winton",
+    "publicationYear": 1994,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 297,
+    "title": "Eyrie",
+    "author": "Tim Winton",
+    "publicationYear": 2013,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 298,
+    "title": "The Narrow Road to the Deep North",
+    "author": "Richard Flanagan",
+    "publicationYear": 2013,
+    "genre": "Historical Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 299,
+    "title": "Gould's Book of Fish",
+    "author": "Richard Flanagan",
+    "publicationYear": 2001,
+    "genre": "Historical Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 300,
+    "title": "Death of a River Guide",
+    "author": "Richard Flanagan",
+    "publicationYear": 1994,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 301,
+    "title": "The Unknown Terrorist",
+    "author": "Richard Flanagan",
+    "publicationYear": 2006,
+    "genre": "Thriller",
+    "availableCopies": 4
+  },
+  {
+    "id": 302,
+    "title": "Wanting",
+    "author": "Richard Flanagan",
+    "publicationYear": 2008,
+    "genre": "Historical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 303,
+    "title": "The Sea",
+    "author": "John Banville",
+    "publicationYear": 2005,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 304,
+    "title": "The Book of Evidence",
+    "author": "John Banville",
+    "publicationYear": 1989,
+    "genre": "Crime Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 305,
+    "title": "Ghosts",
+    "author": "John Banville",
+    "publicationYear": 1993,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 306,
+    "title": "Athena",
+    "author": "John Banville",
+    "publicationYear": 1995,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 307,
+    "title": "The Untouchable",
+    "author": "John Banville",
+    "publicationYear": 1997,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 308,
+    "title": "Shroud",
+    "author": "John Banville",
+    "publicationYear": 2002,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 309,
+    "title": "The Infinities",
+    "author": "John Banville",
+    "publicationYear": 2009,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 310,
+    "title": "Ancient Light",
+    "author": "John Banville",
+    "publicationYear": 2012,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 311,
+    "title": "The Blue Guitar",
+    "author": "John Banville",
+    "publicationYear": 2015,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 312,
+    "title": "Mrs. Dalloway",
+    "author": "Virginia Woolf",
+    "publicationYear": 1925,
+    "genre": "Modernist Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 313,
+    "title": "To the Lighthouse",
+    "author": "Virginia Woolf",
+    "publicationYear": 1927,
+    "genre": "Modernist Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 314,
+    "title": "Orlando",
+    "author": "Virginia Woolf",
+    "publicationYear": 1928,
+    "genre": "Modernist Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 315,
+    "title": "The Waves",
+    "author": "Virginia Woolf",
+    "publicationYear": 1931,
+    "genre": "Modernist Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 316,
+    "title": "A Room of One's Own",
+    "author": "Virginia Woolf",
+    "publicationYear": 1929,
+    "genre": "Essay",
+    "availableCopies": 8
+  },
+  {
+    "id": 317,
+    "title": "Between the Acts",
+    "author": "Virginia Woolf",
+    "publicationYear": 1941,
+    "genre": "Modernist Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 318,
+    "title": "Ulysses",
+    "author": "James Joyce",
+    "publicationYear": 1922,
+    "genre": "Modernist Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 319,
+    "title": "A Portrait of the Artist as a Young Man",
+    "author": "James Joyce",
+    "publicationYear": 1916,
+    "genre": "Coming of Age",
+    "availableCopies": 6
+  },
+  {
+    "id": 320,
+    "title": "Dubliners",
+    "author": "James Joyce",
+    "publicationYear": 1914,
+    "genre": "Short Stories",
+    "availableCopies": 7
+  },
+  {
+    "id": 321,
+    "title": "Finnegans Wake",
+    "author": "James Joyce",
+    "publicationYear": 1939,
+    "genre": "Modernist Fiction",
+    "availableCopies": 2
+  },
+  {
+    "id": 322,
+    "title": "In Search of Lost Time",
+    "author": "Marcel Proust",
+    "publicationYear": 1913,
+    "genre": "Modernist Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 323,
+    "title": "Swann's Way",
+    "author": "Marcel Proust",
+    "publicationYear": 1913,
+    "genre": "Modernist Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 324,
+    "title": "The Trial",
+    "author": "Franz Kafka",
+    "publicationYear": 1925,
+    "genre": "Absurdist Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 325,
+    "title": "The Metamorphosis",
+    "author": "Franz Kafka",
+    "publicationYear": 1915,
+    "genre": "Absurdist Fiction",
+    "availableCopies": 8
+  },
+  {
+    "id": 326,
+    "title": "The Castle",
+    "author": "Franz Kafka",
+    "publicationYear": 1926,
+    "genre": "Absurdist Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 327,
+    "title": "Amerika",
+    "author": "Franz Kafka",
+    "publicationYear": 1927,
+    "genre": "Absurdist Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 328,
+    "title": "The Sound and the Fury",
+    "author": "William Faulkner",
+    "publicationYear": 1929,
+    "genre": "Modernist Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 329,
+    "title": "As I Lay Dying",
+    "author": "William Faulkner",
+    "publicationYear": 1930,
+    "genre": "Modernist Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 330,
+    "title": "Light in August",
+    "author": "William Faulkner",
+    "publicationYear": 1932,
+    "genre": "Modernist Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 331,
+    "title": "Absalom, Absalom!",
+    "author": "William Faulkner",
+    "publicationYear": 1936,
+    "genre": "Modernist Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 332,
+    "title": "A Rose for Emily",
+    "author": "William Faulkner",
+    "publicationYear": 1930,
+    "genre": "Short Stories",
+    "availableCopies": 6
+  },
+  {
+    "id": 333,
+    "title": "The Bear",
+    "author": "William Faulkner",
+    "publicationYear": 1942,
+    "genre": "Short Stories",
+    "availableCopies": 4
+  },
+  {
+    "id": 334,
+    "title": "Go Down, Moses",
+    "author": "William Faulkner",
+    "publicationYear": 1942,
+    "genre": "Short Stories",
+    "availableCopies": 3
+  },
+  {
+    "id": 335,
+    "title": "The Snows of Kilimanjaro",
+    "author": "Ernest Hemingway",
+    "publicationYear": 1936,
+    "genre": "Short Stories",
+    "availableCopies": 5
+  },
+  {
+    "id": 336,
+    "title": "The Killers",
+    "author": "Ernest Hemingway",
+    "publicationYear": 1927,
+    "genre": "Short Stories",
+    "availableCopies": 4
+  },
+  {
+    "id": 337,
+    "title": "Hills Like White Elephants",
+    "author": "Ernest Hemingway",
+    "publicationYear": 1927,
+    "genre": "Short Stories",
+    "availableCopies": 5
+  },
+  {
+    "id": 338,
+    "title": "The Things They Carried",
+    "author": "Tim O'Brien",
+    "publicationYear": 1990,
+    "genre": "War Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 339,
+    "title": "Going After Cacciato",
+    "author": "Tim O'Brien",
+    "publicationYear": 1978,
+    "genre": "War Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 340,
+    "title": "In the Lake of the Woods",
+    "author": "Tim O'Brien",
+    "publicationYear": 1994,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 341,
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "publicationYear": 1961,
+    "genre": "Satire",
+    "availableCopies": 7
+  },
+  {
+    "id": 342,
+    "title": "Something Happened",
+    "author": "Joseph Heller",
+    "publicationYear": 1974,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 343,
+    "title": "Good as Gold",
+    "author": "Joseph Heller",
+    "publicationYear": 1979,
+    "genre": "Satire",
+    "availableCopies": 3
+  },
+  {
+    "id": 344,
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "publicationYear": 1969,
+    "genre": "Science Fiction",
+    "availableCopies": 8
+  },
+  {
+    "id": 345,
+    "title": "Cat's Cradle",
+    "author": "Kurt Vonnegut",
+    "publicationYear": 1963,
+    "genre": "Science Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 346,
+    "title": "Breakfast of Champions",
+    "author": "Kurt Vonnegut",
+    "publicationYear": 1973,
+    "genre": "Satire",
+    "availableCopies": 6
+  },
+  {
+    "id": 347,
+    "title": "Player Piano",
+    "author": "Kurt Vonnegut",
+    "publicationYear": 1952,
+    "genre": "Science Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 348,
+    "title": "The Sirens of Titan",
+    "author": "Kurt Vonnegut",
+    "publicationYear": 1959,
+    "genre": "Science Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 349,
+    "title": "Mother Night",
+    "author": "Kurt Vonnegut",
+    "publicationYear": 1961,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 350,
+    "title": "God Bless You, Mr. Rosewater",
+    "author": "Kurt Vonnegut",
+    "publicationYear": 1965,
+    "genre": "Satire",
+    "availableCopies": 4
+  },
+  {
+    "id": 351,
+    "title": "Welcome to the Monkey House",
+    "author": "Kurt Vonnegut",
+    "publicationYear": 1968,
+    "genre": "Short Stories",
+    "availableCopies": 5
+  },
+  {
+    "id": 352,
+    "title": "Hocus Pocus",
+    "author": "Kurt Vonnegut",
+    "publicationYear": 1990,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 353,
+    "title": "The Bell Jar",
+    "author": "Sylvia Plath",
+    "publicationYear": 1963,
+    "genre": "Autobiographical Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 354,
+    "title": "Ariel",
+    "author": "Sylvia Plath",
+    "publicationYear": 1965,
+    "genre": "Poetry",
+    "availableCopies": 6
+  },
+  {
+    "id": 355,
+    "title": "The Colossus",
+    "author": "Sylvia Plath",
+    "publicationYear": 1960,
+    "genre": "Poetry",
+    "availableCopies": 4
+  },
+  {
+    "id": 356,
+    "title": "Johnny Panic and the Bible of Dreams",
+    "author": "Sylvia Plath",
+    "publicationYear": 1977,
+    "genre": "Short Stories",
+    "availableCopies": 3
+  },
+  {
+    "id": 357,
+    "title": "The Unabridged Journals of Sylvia Plath",
+    "author": "Sylvia Plath",
+    "publicationYear": 2000,
+    "genre": "Memoir",
+    "availableCopies": 4
+  },
+  {
+    "id": 358,
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "publicationYear": 1985,
+    "genre": "Dystopian",
+    "availableCopies": 9
+  },
+  {
+    "id": 359,
+    "title": "The Testaments",
+    "author": "Margaret Atwood",
+    "publicationYear": 2019,
+    "genre": "Dystopian",
+    "availableCopies": 7
+  },
+  {
+    "id": 360,
+    "title": "Oryx and Crake",
+    "author": "Margaret Atwood",
+    "publicationYear": 2003,
+    "genre": "Science Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 361,
+    "title": "The Year of the Flood",
+    "author": "Margaret Atwood",
+    "publicationYear": 2009,
+    "genre": "Science Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 362,
+    "title": "MaddAddam",
+    "author": "Margaret Atwood",
+    "publicationYear": 2013,
+    "genre": "Science Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 363,
+    "title": "Alias Grace",
+    "author": "Margaret Atwood",
+    "publicationYear": 1996,
+    "genre": "Historical Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 364,
+    "title": "The Blind Assassin",
+    "author": "Margaret Atwood",
+    "publicationYear": 2000,
+    "genre": "Historical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 365,
+    "title": "Cat's Eye",
+    "author": "Margaret Atwood",
+    "publicationYear": 1988,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 366,
+    "title": "Surfacing",
+    "author": "Margaret Atwood",
+    "publicationYear": 1972,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 367,
+    "title": "The Edible Woman",
+    "author": "Margaret Atwood",
+    "publicationYear": 1969,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 368,
+    "title": "Lady Oracle",
+    "author": "Margaret Atwood",
+    "publicationYear": 1976,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 369,
+    "title": "Life Before Man",
+    "author": "Margaret Atwood",
+    "publicationYear": 1979,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 370,
+    "title": "Bodily Harm",
+    "author": "Margaret Atwood",
+    "publicationYear": 1981,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 371,
+    "title": "The Robber Bride",
+    "author": "Margaret Atwood",
+    "publicationYear": 1993,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 372,
+    "title": "The Penelopiad",
+    "author": "Margaret Atwood",
+    "publicationYear": 2005,
+    "genre": "Mythological Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 373,
+    "title": "Half of a Yellow Sun",
+    "author": "Chimamanda Ngozi Adichie",
+    "publicationYear": 2006,
+    "genre": "Historical Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 374,
+    "title": "Americanah",
+    "author": "Chimamanda Ngozi Adichie",
+    "publicationYear": 2013,
+    "genre": "Fiction",
+    "availableCopies": 8
+  },
+  {
+    "id": 375,
+    "title": "Purple Hibiscus",
+    "author": "Chimamanda Ngozi Adichie",
+    "publicationYear": 2003,
+    "genre": "Coming of Age",
+    "availableCopies": 6
+  },
+  {
+    "id": 376,
+    "title": "The Thing Around Your Neck",
+    "author": "Chimamanda Ngozi Adichie",
+    "publicationYear": 2009,
+    "genre": "Short Stories",
+    "availableCopies": 5
+  },
+  {
+    "id": 377,
+    "title": "We Should All Be Feminists",
+    "author": "Chimamanda Ngozi Adichie",
+    "publicationYear": 2014,
+    "genre": "Essay",
+    "availableCopies": 9
+  },
+  {
+    "id": 378,
+    "title": "Dear Ijeawele",
+    "author": "Chimamanda Ngozi Adichie",
+    "publicationYear": 2017,
+    "genre": "Essay",
+    "availableCopies": 7
+  },
+  {
+    "id": 379,
+    "title": "The Famished Road",
+    "author": "Ben Okri",
+    "publicationYear": 1991,
+    "genre": "Magical Realism",
+    "availableCopies": 5
+  },
+  {
+    "id": 380,
+    "title": "Songs of Enchantment",
+    "author": "Ben Okri",
+    "publicationYear": 1993,
+    "genre": "Magical Realism",
+    "availableCopies": 4
+  },
+  {
+    "id": 381,
+    "title": "Infinite Riches",
+    "author": "Ben Okri",
+    "publicationYear": 1998,
+    "genre": "Magical Realism",
+    "availableCopies": 3
+  },
+  {
+    "id": 382,
+    "title": "The Stars My Destination",
+    "author": "Alfred Bester",
+    "publicationYear": 1956,
+    "genre": "Science Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 383,
+    "title": "The Demolished Man",
+    "author": "Alfred Bester",
+    "publicationYear": 1953,
+    "genre": "Science Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 384,
+    "title": "Stranger in a Strange Land",
+    "author": "Robert A. Heinlein",
+    "publicationYear": 1961,
+    "genre": "Science Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 385,
+    "title": "Starship Troopers",
+    "author": "Robert A. Heinlein",
+    "publicationYear": 1959,
+    "genre": "Science Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 386,
+    "title": "The Moon Is a Harsh Mistress",
+    "author": "Robert A. Heinlein",
+    "publicationYear": 1966,
+    "genre": "Science Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 387,
+    "title": "Time Enough for Love",
+    "author": "Robert A. Heinlein",
+    "publicationYear": 1973,
+    "genre": "Science Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 388,
+    "title": "Do Androids Dream of Electric Sheep?",
+    "author": "Philip K. Dick",
+    "publicationYear": 1968,
+    "genre": "Science Fiction",
+    "availableCopies": 8
+  },
+  {
+    "id": 389,
+    "title": "The Man in the High Castle",
+    "author": "Philip K. Dick",
+    "publicationYear": 1962,
+    "genre": "Alternate History",
+    "availableCopies": 7
+  },
+  {
+    "id": 390,
+    "title": "Ubik",
+    "author": "Philip K. Dick",
+    "publicationYear": 1969,
+    "genre": "Science Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 391,
+    "title": "A Scanner Darkly",
+    "author": "Philip K. Dick",
+    "publicationYear": 1977,
+    "genre": "Science Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 392,
+    "title": "VALIS",
+    "author": "Philip K. Dick",
+    "publicationYear": 1981,
+    "genre": "Science Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 393,
+    "title": "The Three-Body Problem",
+    "author": "Liu Cixin",
+    "publicationYear": 2008,
+    "genre": "Science Fiction",
+    "availableCopies": 8
+  },
+  {
+    "id": 394,
+    "title": "The Dark Forest",
+    "author": "Liu Cixin",
+    "publicationYear": 2008,
+    "genre": "Science Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 395,
+    "title": "Death's End",
+    "author": "Liu Cixin",
+    "publicationYear": 2010,
+    "genre": "Science Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 396,
+    "title": "The Wandering Earth",
+    "author": "Liu Cixin",
+    "publicationYear": 2000,
+    "genre": "Science Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 397,
+    "title": "Ball Lightning",
+    "author": "Liu Cixin",
+    "publicationYear": 2004,
+    "genre": "Science Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 398,
+    "title": "Supernova Era",
+    "author": "Liu Cixin",
+    "publicationYear": 2004,
+    "genre": "Science Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 399,
+    "title": "The Dispossessed",
+    "author": "Ursula K. Le Guin",
+    "publicationYear": 1974,
+    "genre": "Science Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 400,
+    "title": "The Lathe of Heaven",
+    "author": "Ursula K. Le Guin",
+    "publicationYear": 1971,
+    "genre": "Science Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 401,
+    "title": "The Word for World Is Forest",
+    "author": "Ursula K. Le Guin",
+    "publicationYear": 1972,
+    "genre": "Science Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 402,
+    "title": "Four Ways to Forgiveness",
+    "author": "Ursula K. Le Guin",
+    "publicationYear": 1995,
+    "genre": "Science Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 403,
+    "title": "The Telling",
+    "author": "Ursula K. Le Guin",
+    "publicationYear": 2000,
+    "genre": "Science Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 404,
+    "title": "A Canticle for Leibowitz",
+    "author": "Walter M. Miller Jr.",
+    "publicationYear": 1959,
+    "genre": "Science Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 405,
+    "title": "Saint Leibowitz and the Wild Horse Woman",
+    "author": "Walter M. Miller Jr.",
+    "publicationYear": 1997,
+    "genre": "Science Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 406,
+    "title": "Hyperion",
+    "author": "Dan Simmons",
+    "publicationYear": 1989,
+    "genre": "Science Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 407,
+    "title": "The Fall of Hyperion",
+    "author": "Dan Simmons",
+    "publicationYear": 1990,
+    "genre": "Science Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 408,
+    "title": "Endymion",
+    "author": "Dan Simmons",
+    "publicationYear": 1996,
+    "genre": "Science Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 409,
+    "title": "The Rise of Endymion",
+    "author": "Dan Simmons",
+    "publicationYear": 1997,
+    "genre": "Science Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 410,
+    "title": "Ilium",
+    "author": "Dan Simmons",
+    "publicationYear": 2003,
+    "genre": "Science Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 411,
+    "title": "Olympos",
+    "author": "Dan Simmons",
+    "publicationYear": 2005,
+    "genre": "Science Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 412,
+    "title": "The Terror",
+    "author": "Dan Simmons",
+    "publicationYear": 2007,
+    "genre": "Historical Horror",
+    "availableCopies": 6
+  },
+  {
+    "id": 413,
+    "title": "Drood",
+    "author": "Dan Simmons",
+    "publicationYear": 2009,
+    "genre": "Historical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 414,
+    "title": "Carrion Comfort",
+    "author": "Dan Simmons",
+    "publicationYear": 1989,
+    "genre": "Horror",
+    "availableCopies": 4
+  },
+  {
+    "id": 415,
+    "title": "Summer of Night",
+    "author": "Dan Simmons",
+    "publicationYear": 1991,
+    "genre": "Horror",
+    "availableCopies": 5
+  },
+  {
+    "id": 416,
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "publicationYear": 2011,
+    "genre": "Mythological Fiction",
+    "availableCopies": 8
+  },
+  {
+    "id": 417,
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "publicationYear": 2018,
+    "genre": "Mythological Fiction",
+    "availableCopies": 9
+  },
+  {
+    "id": 418,
+    "title": "Galatea",
+    "author": "Madeline Miller",
+    "publicationYear": 2013,
+    "genre": "Mythological Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 419,
+    "title": "The Silence of the Girls",
+    "author": "Pat Barker",
+    "publicationYear": 2018,
+    "genre": "Mythological Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 420,
+    "title": "The Women of Troy",
+    "author": "Pat Barker",
+    "publicationYear": 2021,
+    "genre": "Mythological Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 421,
+    "title": "Regeneration",
+    "author": "Pat Barker",
+    "publicationYear": 1991,
+    "genre": "Historical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 422,
+    "title": "The Eye in the Door",
+    "author": "Pat Barker",
+    "publicationYear": 1993,
+    "genre": "Historical Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 423,
+    "title": "The Ghost Road",
+    "author": "Pat Barker",
+    "publicationYear": 1995,
+    "genre": "Historical Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 424,
+    "title": "A God in Ruins",
+    "author": "Kate Atkinson",
+    "publicationYear": 2015,
+    "genre": "Historical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 425,
+    "title": "Life After Life",
+    "author": "Kate Atkinson",
+    "publicationYear": 2013,
+    "genre": "Historical Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 426,
+    "title": "Behind the Scenes at the Museum",
+    "author": "Kate Atkinson",
+    "publicationYear": 1995,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 427,
+    "title": "Case Histories",
+    "author": "Kate Atkinson",
+    "publicationYear": 2004,
+    "genre": "Crime Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 428,
+    "title": "One Good Turn",
+    "author": "Kate Atkinson",
+    "publicationYear": 2006,
+    "genre": "Crime Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 429,
+    "title": "When Will There Be Good News?",
+    "author": "Kate Atkinson",
+    "publicationYear": 2008,
+    "genre": "Crime Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 430,
+    "title": "Started Early, Took My Dog",
+    "author": "Kate Atkinson",
+    "publicationYear": 2010,
+    "genre": "Crime Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 431,
+    "title": "Big Sky",
+    "author": "Kate Atkinson",
+    "publicationYear": 2019,
+    "genre": "Crime Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 432,
+    "title": "Transcription",
+    "author": "Kate Atkinson",
+    "publicationYear": 2018,
+    "genre": "Historical Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 433,
+    "title": "Shrines of Gaiety",
+    "author": "Kate Atkinson",
+    "publicationYear": 2022,
+    "genre": "Historical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 434,
+    "title": "The Vanishing Half",
+    "author": "Brit Bennett",
+    "publicationYear": 2020,
+    "genre": "Historical Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 435,
+    "title": "The Mothers",
+    "author": "Brit Bennett",
+    "publicationYear": 2016,
+    "genre": "Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 436,
+    "title": "Homegoing",
+    "author": "Yaa Gyasi",
+    "publicationYear": 2016,
+    "genre": "Historical Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 437,
+    "title": "Transcendent Kingdom",
+    "author": "Yaa Gyasi",
+    "publicationYear": 2020,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 438,
+    "title": "The Underground Railroad",
+    "author": "Colson Whitehead",
+    "publicationYear": 2016,
+    "genre": "Historical Fiction",
+    "availableCopies": 8
+  },
+  {
+    "id": 439,
+    "title": "The Nickel Boys",
+    "author": "Colson Whitehead",
+    "publicationYear": 2019,
+    "genre": "Historical Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 440,
+    "title": "The Intuitionist",
+    "author": "Colson Whitehead",
+    "publicationYear": 1999,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 441,
+    "title": "John Henry Days",
+    "author": "Colson Whitehead",
+    "publicationYear": 2001,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 442,
+    "title": "Apex Hides the Hurt",
+    "author": "Colson Whitehead",
+    "publicationYear": 2006,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 443,
+    "title": "Sag Harbor",
+    "author": "Colson Whitehead",
+    "publicationYear": 2009,
+    "genre": "Coming of Age",
+    "availableCopies": 5
+  },
+  {
+    "id": 444,
+    "title": "Zone One",
+    "author": "Colson Whitehead",
+    "publicationYear": 2011,
+    "genre": "Horror",
+    "availableCopies": 4
+  },
+  {
+    "id": 445,
+    "title": "Harlem Shuffle",
+    "author": "Colson Whitehead",
+    "publicationYear": 2021,
+    "genre": "Crime Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 446,
+    "title": "When We Were Orphans",
+    "author": "Kazuo Ishiguro",
+    "publicationYear": 2000,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 447,
+    "title": "The Unconsoled",
+    "author": "Kazuo Ishiguro",
+    "publicationYear": 1995,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 448,
+    "title": "Nocturnes",
+    "author": "Kazuo Ishiguro",
+    "publicationYear": 2009,
+    "genre": "Short Stories",
+    "availableCopies": 4
+  },
+  {
+    "id": 449,
+    "title": "A Pale View of Hills",
+    "author": "Kazuo Ishiguro",
+    "publicationYear": 1982,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 450,
+    "title": "Norwegian Wood",
+    "author": "Haruki Murakami",
+    "publicationYear": 1987,
+    "genre": "Romance",
+    "availableCopies": 8
+  },
+  {
+    "id": 451,
+    "title": "Kafka on the Shore",
+    "author": "Haruki Murakami",
+    "publicationYear": 2002,
+    "genre": "Magical Realism",
+    "availableCopies": 9
+  },
+  {
+    "id": 452,
+    "title": "1Q84",
+    "author": "Haruki Murakami",
+    "publicationYear": 2009,
+    "genre": "Magical Realism",
+    "availableCopies": 7
+  },
+  {
+    "id": 453,
+    "title": "The Wind-Up Bird Chronicle",
+    "author": "Haruki Murakami",
+    "publicationYear": 1994,
+    "genre": "Magical Realism",
+    "availableCopies": 6
+  },
+  {
+    "id": 454,
+    "title": "A Wild Sheep Chase",
+    "author": "Haruki Murakami",
+    "publicationYear": 1982,
+    "genre": "Magical Realism",
+    "availableCopies": 5
+  },
+  {
+    "id": 455,
+    "title": "Hard-Boiled Wonderland and the End of the World",
+    "author": "Haruki Murakami",
+    "publicationYear": 1985,
+    "genre": "Science Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 456,
+    "title": "Dance Dance Dance",
+    "author": "Haruki Murakami",
+    "publicationYear": 1988,
+    "genre": "Magical Realism",
+    "availableCopies": 4
+  },
+  {
+    "id": 457,
+    "title": "Sputnik Sweetheart",
+    "author": "Haruki Murakami",
+    "publicationYear": 1999,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 458,
+    "title": "After Dark",
+    "author": "Haruki Murakami",
+    "publicationYear": 2004,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 459,
+    "title": "Colorless Tsukuru Tazaki and His Years of Pilgrimage",
+    "author": "Haruki Murakami",
+    "publicationYear": 2013,
+    "genre": "Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 460,
+    "title": "Men Without Women",
+    "author": "Haruki Murakami",
+    "publicationYear": 2014,
+    "genre": "Short Stories",
+    "availableCopies": 7
+  },
+  {
+    "id": 461,
+    "title": "Killing Commendatore",
+    "author": "Haruki Murakami",
+    "publicationYear": 2017,
+    "genre": "Magical Realism",
+    "availableCopies": 5
+  },
+  {
+    "id": 462,
+    "title": "The Memory Police",
+    "author": "Yoko Ogawa",
+    "publicationYear": 1994,
+    "genre": "Dystopian",
+    "availableCopies": 6
+  },
+  {
+    "id": 463,
+    "title": "The Housekeeper and the Professor",
+    "author": "Yoko Ogawa",
+    "publicationYear": 2003,
+    "genre": "Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 464,
+    "title": "Revenge",
+    "author": "Yoko Ogawa",
+    "publicationYear": 1998,
+    "genre": "Short Stories",
+    "availableCopies": 5
+  },
+  {
+    "id": 465,
+    "title": "The Diving Pool",
+    "author": "Yoko Ogawa",
+    "publicationYear": 1990,
+    "genre": "Short Stories",
+    "availableCopies": 4
+  },
+  {
+    "id": 466,
+    "title": "Hotel Iris",
+    "author": "Yoko Ogawa",
+    "publicationYear": 1996,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 467,
+    "title": "Convenience Store Woman",
+    "author": "Sayaka Murata",
+    "publicationYear": 2016,
+    "genre": "Fiction",
+    "availableCopies": 8
+  },
+  {
+    "id": 468,
+    "title": "Earthlings",
+    "author": "Sayaka Murata",
+    "publicationYear": 2018,
+    "genre": "Speculative Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 469,
+    "title": "Life Ceremony",
+    "author": "Sayaka Murata",
+    "publicationYear": 2019,
+    "genre": "Short Stories",
+    "availableCopies": 5
+  },
+  {
+    "id": 470,
+    "title": "Kitchen",
+    "author": "Banana Yoshimoto",
+    "publicationYear": 1988,
+    "genre": "Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 471,
+    "title": "Moonlight Shadow",
+    "author": "Banana Yoshimoto",
+    "publicationYear": 1986,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 472,
+    "title": "Goodbye Tsugumi",
+    "author": "Banana Yoshimoto",
+    "publicationYear": 1989,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 473,
+    "title": "N.P.",
+    "author": "Banana Yoshimoto",
+    "publicationYear": 1990,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 474,
+    "title": "Lizard",
+    "author": "Banana Yoshimoto",
+    "publicationYear": 1993,
+    "genre": "Short Stories",
+    "availableCopies": 3
+  },
+  {
+    "id": 475,
+    "title": "Out",
+    "author": "Natsuo Kirino",
+    "publicationYear": 1997,
+    "genre": "Crime Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 476,
+    "title": "Grotesque",
+    "author": "Natsuo Kirino",
+    "publicationYear": 2003,
+    "genre": "Crime Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 477,
+    "title": "Real World",
+    "author": "Natsuo Kirino",
+    "publicationYear": 2003,
+    "genre": "Crime Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 478,
+    "title": "The Devotion of Suspect X",
+    "author": "Keigo Higashino",
+    "publicationYear": 2005,
+    "genre": "Mystery",
+    "availableCopies": 7
+  },
+  {
+    "id": 479,
+    "title": "Salvation of a Saint",
+    "author": "Keigo Higashino",
+    "publicationYear": 2008,
+    "genre": "Mystery",
+    "availableCopies": 6
+  },
+  {
+    "id": 480,
+    "title": "Malice",
+    "author": "Keigo Higashino",
+    "publicationYear": 1996,
+    "genre": "Mystery",
+    "availableCopies": 6
+  },
+  {
+    "id": 481,
+    "title": "Journey Under the Midnight Sun",
+    "author": "Keigo Higashino",
+    "publicationYear": 1999,
+    "genre": "Mystery",
+    "availableCopies": 5
+  },
+  {
+    "id": 482,
+    "title": "The Name of the Rose",
+    "author": "Umberto Eco",
+    "publicationYear": 1980,
+    "genre": "Historical Mystery",
+    "availableCopies": 7
+  },
+  {
+    "id": 483,
+    "title": "Foucault's Pendulum",
+    "author": "Umberto Eco",
+    "publicationYear": 1988,
+    "genre": "Historical Mystery",
+    "availableCopies": 5
+  },
+  {
+    "id": 484,
+    "title": "The Island of the Day Before",
+    "author": "Umberto Eco",
+    "publicationYear": 1994,
+    "genre": "Historical Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 485,
+    "title": "Baudolino",
+    "author": "Umberto Eco",
+    "publicationYear": 2000,
+    "genre": "Historical Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 486,
+    "title": "The Prague Cemetery",
+    "author": "Umberto Eco",
+    "publicationYear": 2010,
+    "genre": "Historical Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 487,
+    "title": "If on a Winter's Night a Traveler",
+    "author": "Italo Calvino",
+    "publicationYear": 1979,
+    "genre": "Postmodern Fiction",
+    "availableCopies": 6
+  },
+  {
+    "id": 488,
+    "title": "Invisible Cities",
+    "author": "Italo Calvino",
+    "publicationYear": 1972,
+    "genre": "Postmodern Fiction",
+    "availableCopies": 7
+  },
+  {
+    "id": 489,
+    "title": "The Baron in the Trees",
+    "author": "Italo Calvino",
+    "publicationYear": 1957,
+    "genre": "Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 490,
+    "title": "Cosmicomics",
+    "author": "Italo Calvino",
+    "publicationYear": 1965,
+    "genre": "Science Fiction",
+    "availableCopies": 5
+  },
+  {
+    "id": 491,
+    "title": "The Complete Cosmicomics",
+    "author": "Italo Calvino",
+    "publicationYear": 1965,
+    "genre": "Science Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 492,
+    "title": "The Cloven Viscount",
+    "author": "Italo Calvino",
+    "publicationYear": 1952,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 493,
+    "title": "The Nonexistent Knight",
+    "author": "Italo Calvino",
+    "publicationYear": 1959,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 494,
+    "title": "Marcovaldo",
+    "author": "Italo Calvino",
+    "publicationYear": 1963,
+    "genre": "Short Stories",
+    "availableCopies": 5
+  },
+  {
+    "id": 495,
+    "title": "Mr. Palomar",
+    "author": "Italo Calvino",
+    "publicationYear": 1983,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 496,
+    "title": "The Castle of Crossed Destinies",
+    "author": "Italo Calvino",
+    "publicationYear": 1969,
+    "genre": "Fiction",
+    "availableCopies": 3
+  },
+  {
+    "id": 497,
+    "title": "Under the Jaguar Sun",
+    "author": "Italo Calvino",
+    "publicationYear": 1986,
+    "genre": "Short Stories",
+    "availableCopies": 4
+  },
+  {
+    "id": 498,
+    "title": "Difficult Loves",
+    "author": "Italo Calvino",
+    "publicationYear": 1970,
+    "genre": "Short Stories",
+    "availableCopies": 5
+  },
+  {
+    "id": 499,
+    "title": "The Path to the Spiders' Nests",
+    "author": "Italo Calvino",
+    "publicationYear": 1947,
+    "genre": "Fiction",
+    "availableCopies": 4
+  },
+  {
+    "id": 500,
+    "title": "Six Memos for the Next Millennium",
+    "author": "Italo Calvino",
+    "publicationYear": 1988,
+    "genre": "Essay",
+    "availableCopies": 3
+  }
+]
