@@ -1,6 +1,5 @@
 package com.app.library.controller;
 
-
 import java.time.LocalDate;
 import java.util.List;
 import java.util.Map;
@@ -9,7 +8,7 @@ import java.util.Optional;
 import com.app.library.model.Member;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -19,6 +18,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import com.app.library.model.Book;
 import com.app.library.model.BorrowingRecord;
@@ -67,6 +67,24 @@ public class LibraryController {
         logger.info("The book returned " + book);
         return book.map(value -> new ResponseEntity<>(value, HttpStatus.OK))
                 .orElseGet(() -> new ResponseEntity<>(HttpStatus.NOT_FOUND));
+    }
+
+    // Get a book by genre
+    @GetMapping("/books/genre")
+    public ResponseEntity<List<Book>> getBooksByGenre(@RequestParam String genre) {
+        List<Book> books = libraryService.getBooksByGenre(genre);
+        logger.info("The book returned by genre " + books);
+        return new ResponseEntity<>(books, HttpStatus.OK);
+    }
+
+    // Get books by author and optional genre
+    @GetMapping("/books/author/{author}")
+    public ResponseEntity<List<Book>> getBooksByAuthorAndGenre(@PathVariable String author,
+            @RequestParam(required = false) String genre) {
+        List<Book> books = libraryService.getBooksByAuthorAndGenre(author, genre);
+        logger.info("Books retrieved for author {} and genre {}",
+                author, genre);
+        return new ResponseEntity<>(books, HttpStatus.OK);
     }
 
     // Update a book
@@ -200,4 +218,26 @@ public class LibraryController {
         return new ResponseEntity<>(returned.get(), HttpStatus.OK);
     }
 
+    // Get books due for return
+    @GetMapping("/books/due")
+    public ResponseEntity<List<Book>> getBooksDueOnDate(
+            @RequestParam @DateTimeFormat(iso = DateTimeFormat.ISO.DATE) LocalDate date) {
+
+        List<Book> books = libraryService.getBooksDueOnDate(date);
+        logger.info("Books due on date {}", date);
+        return new ResponseEntity<>(books, HttpStatus.OK);
+    }
+
+    // Check book availability
+    @GetMapping("/books/{id}/availability")
+    public ResponseEntity<LocalDate> checkAvailability(
+            @PathVariable Long id) {
+
+        LocalDate availableDate = libraryService.checkAvailability(id);
+        logger.info("Availability checked for book {}: {}", id, availableDate);
+        if (availableDate == null) {
+            return new ResponseEntity<>(HttpStatus.NOT_FOUND);
+        }
+        return new ResponseEntity<>(availableDate, HttpStatus.OK);
+    }
 }

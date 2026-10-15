@@ -7,6 +7,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 import java.util.concurrent.atomic.AtomicLong;
+import java.util.stream.Collectors;
+
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Service;
 import com.app.library.model.Book;
@@ -42,7 +44,8 @@ public class LibraryService {
     @PostConstruct
     public void loadBooks() throws IOException {
         try (InputStream is = new ClassPathResource("data/books.json").getInputStream()) {
-            List<Book> loaded = objectMapper.readValue(is, new TypeReference<List<Book>>() {});
+            List<Book> loaded = objectMapper.readValue(is, new TypeReference<List<Book>>() {
+            });
             books.addAll(loaded);
 
             long maxId = loaded.stream().mapToLong(Book::getId).max().orElse(0L);
@@ -71,6 +74,26 @@ public class LibraryService {
         return books.stream().filter(book -> book.getId().equals(id)).findFirst();
     }
 
+    // Get a book by Genre
+    public List<Book> getBooksByGenre(String genre) {
+        return books.stream()
+                .filter(book -> book.getGenre().toLowerCase().contains(genre.toLowerCase()))
+                .collect(Collectors.toList());
+    }
+
+    // Get a book by Author and Genre
+    public List<Book> getBooksByAuthorAndGenre(String author, String genre) {
+        return books.stream()
+                .filter(book -> book.getAuthor() != null
+                        && book.getAuthor().toLowerCase()
+                                .contains(author.toLowerCase()))
+                .filter(book -> genre == null || genre.isBlank()
+                        || (book.getGenre() != null
+                                && book.getGenre().toLowerCase()
+                                        .contains(genre.toLowerCase())))
+                .collect(Collectors.toList());
+    }
+
     // Update a book
     public synchronized Optional<Book> updateBook(Long id, Book updated) {
         for (Book book : books) {
@@ -97,7 +120,6 @@ public class LibraryService {
         return Optional.empty();
     }
 
-
     // ==================== Members Dataset ====================
 
     /**
@@ -106,7 +128,8 @@ public class LibraryService {
     @PostConstruct
     public void loadMembers() throws IOException {
         try (InputStream is = new ClassPathResource("data/members.json").getInputStream()) {
-            List<Member> loaded = objectMapper.readValue(is, new TypeReference<List<Member>>() {});
+            List<Member> loaded = objectMapper.readValue(is, new TypeReference<List<Member>>() {
+            });
             members.addAll(loaded);
 
             long maxId = loaded.stream().mapToLong(Member::getId).max().orElse(0L);
@@ -161,7 +184,6 @@ public class LibraryService {
         return Optional.empty();
     }
 
-
     // ==================== Borrowings Dataset ====================
 
     /**
@@ -170,8 +192,8 @@ public class LibraryService {
     @PostConstruct
     public void loadBorrowings() throws IOException {
         try (InputStream is = new ClassPathResource("data/borrowings.json").getInputStream()) {
-            List<BorrowingRecord> loaded =
-                    objectMapper.readValue(is, new TypeReference<List<BorrowingRecord>>() {});
+            List<BorrowingRecord> loaded = objectMapper.readValue(is, new TypeReference<List<BorrowingRecord>>() {
+            });
             borrowingRecords.addAll(loaded);
 
             long maxId = loaded.stream().mapToLong(BorrowingRecord::getId).max().orElse(0L);
@@ -257,5 +279,36 @@ public class LibraryService {
             }
         }
         return Optional.empty();
+    }
+
+    // Get books due on date
+    public List<Book> getBooksDueOnDate(LocalDate dueDate) {
+
+        return borrowingRecords.stream()
+                .filter(record -> record.getDueDate().equals(dueDate))
+                .map(record -> record.getBook())
+                .collect(Collectors.toList());
+    }
+
+    // Check books availability
+    public LocalDate checkAvailability(Long bookId) {
+
+        Optional<Book> bookOpt = getBookById(bookId);
+
+        if (bookOpt.isEmpty()) {
+            return null;
+        }
+
+        Book book = bookOpt.get();
+        if (book.getAvailableCopies() >= 1) {
+            return LocalDate.now();
+        }
+
+        return borrowingRecords.stream()
+                .filter(record -> record.getBook().getId().equals(bookId))
+                .map(BorrowingRecord::getDueDate)
+                .sorted()
+                .findFirst()
+                .orElse(null);
     }
 }
